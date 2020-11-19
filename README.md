@@ -1,9 +1,10 @@
-           ##################################################################
-           ##--------  How to Install HFODallas  InvisibleServer   --------##
-           ##################################################################
+            #################################################################
+            ##--------  How to Install HFODallas InvisibleServer   --------##
+            #################################################################
 				 
                             
-  1. Click on the green "Code" button on the top right, and inside the drop down menu click "Download Zip".
+  1. Click on the green "Code" button on the top right, and inside the drop down menu click 
+     "Download Zip".
 
   2. Open the downloaded InvisibleServer.zip and drag the 'rclone' folder onto your C:\
 	
